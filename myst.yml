@@ -1,0 +1,58 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: "Project Elara Technical Overview"
+  subtitle: "A short guide to Project Elara's research and development"
+  # Note: all Project Elara content is always public-domain licensed
+  license: Unlicense
+  keywords: ["space", "space-based solar power", "space technologies", "open science"]
+  subject: Report
+  # Set paper authors here
+  authors: 
+    - name: "Jacky Song"
+      orcid: 0009-0006-3463-8469
+      affiliation: rpi
+      github: songtech-0912
+      url: "https://songtech-0912.github.io"
+    - name: "Milo Schnack"
+      affiliation: rpi
+    - name: "Emiliano Vilchis"
+      affiliation: rpi
+    - name: "Charles Wang"
+      affiliation: rpi
+    - name: "Nicholas Schnorbus"
+      affiliation: rpi
+  affiliations:
+    - id: rpi
+      institution: Rensselaer Polytechnic Institute
+      ror: https://ror.org/01rtyzb94
+      isni: 0000 0001 2160 9198
+  open_access: true
+  # Set the github URL of the paper here
+  # github: https://github.com/elaraproject/<SOME_REPO>
+  # Set the date of writing here
+  # date: <CURRENT_DATE>
+  exclude:
+    - README.md
+  exports:
+  - format: pdf
+    article: paper/index.md
+    template: lapreprint
+    # Set your output PDF name here
+    output: public/project-elara-technical-overview.pdf
+    id: pdf-export
+  downloads:
+    - id: pdf-export
+      title: Download PDF
+  banner: assets/banner.jpg
+  references:
+    project-yearly-report: "https://elaraproject.github.io/2024-research-report/"
+ 
+site:
+  template: article-theme
+  options:
+    logo: assets/project-logo.svg
+    logo_dark: assets/project-logo.svg
+    logo_text: "Project Elara Technical Overview"
+    hide_footer_links: true
+    favicon: assets/favicon.ico
