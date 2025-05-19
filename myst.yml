@@ -28,10 +28,7 @@ project:
       ror: https://ror.org/01rtyzb94
       isni: 0000 0001 2160 9198
   open_access: true
-  # Set the github URL of the paper here
-  # github: https://github.com/elaraproject/<SOME_REPO>
-  # Set the date of writing here
-  # date: <CURRENT_DATE>
+  github: https://github.com/elaraproject/elara-technical-overview
   exclude:
     - README.md
   exports:
