@@ -1,12 +1,12 @@
-# Project Elara Report & Paper Template
+# Project Elara Technical Overview
 
-This repository houses an open-source template for creating papers and technical reports for Project Elara. Follow the development instructions to quickly set up a new project.
+This repository houses Project Elara's technical overview. [See it live online](https://elaraproject.github.io/elara-technical-overview/).
 
 > Everything in this report is released to the **public domain** like the rest of [Project Elara](https://github.com/elaraproject/), meaning it is essentially **unlicensed research**, so you can use it for basically any project you want, _however_ you want, with or without attribution.
 
 ## Development
 
-This template is built with [MyST](https://mystmd.org/). To get started, first clone the repository:
+This is a [MyST](https://mystmd.org/) site. To get started, first clone the repository:
 
 ```sh
 git clone https://github.com/elaraproject/2024-research-report
