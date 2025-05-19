@@ -9,7 +9,7 @@ This repository houses Project Elara's technical overview. [See it live online](
 This is a [MyST](https://mystmd.org/) site. To get started, first clone the repository:
 
 ```sh
-git clone https://github.com/elaraproject/2024-research-report
+git clone https://github.com/elaraproject/elara-technical-overview
 ```
 
 Ensure you have [Python](https://www.python.org/) and [pip](https://pypi.org/project/pip/) installed. Then install MyST with:
