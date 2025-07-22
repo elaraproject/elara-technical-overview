@@ -10,6 +10,10 @@ bibliography:
 Project Elara is a nonprofit dedicated to being part of creating a future powered by plentiful space-based solar power. Scientific research is an essential component of the project and the basis of its technological work. In ensuring the full benefits of the research are realized, the project publishes all results and tools openly and works on a nonprofit basis&mdash;all work within the Project is dedicated to the public domain. This technical overview details the present research and development conducted by the Project.
 +++
 
+```{warning}
+Project Elara has switched over to the open-source forge [Codeberg](https://codeberg.org/). The Project Elara repositories have been moved to [this Codeberg page](https://codeberg.org/elaraproject/). **This GitHub repository is no longer maintained**.
+```
+
 # High-level overview
 
 Project Elara ("_hope_") aims to conduct research and eventually development of advanced technologies that we envision will bring about a better future. Our priority research is in the realm of space-based energy harvesting with large-scale space-based solar power constellations. Achieving this capability, if done carefully and correctly, would provide a stable, lasting energy source orders of magnitude more powerful than any contemporary or near-future capabilities. Such a system opens the doorway to engineering and construction on a planetary, if not stellar scale, including mass interplanetary travel, powering space habitats, and even possibly the propulsion of interstellar lightsail arks. To us, these are steps that, if taken in a responsible and wise manner, can lead towards a truly peaceful and equitable future.
