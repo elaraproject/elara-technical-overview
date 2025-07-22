@@ -11,7 +11,7 @@ Project Elara is a nonprofit dedicated to being part of creating a future powere
 +++
 
 ```{warning}
-Project Elara has switched over to the open-source forge [Codeberg](https://codeberg.org/). The Project Elara repositories have been moved to [this Codeberg page](https://codeberg.org/elaraproject/). **This GitHub repository is no longer maintained**.
+Project Elara has switched over to the open-source forge [Codeberg](https://codeberg.org/). The Project Elara repositories have been moved to [this Codeberg page](https://codeberg.org/elaraproject/), and the most recent version of the paper can be found on the [new Project Elara research website](https://research.elaraproject.org/technical-overview/). **This version of the paper is no longer maintained**.
 ```
 
 # High-level overview

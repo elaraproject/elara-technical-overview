@@ -31,6 +31,7 @@ project:
   github: https://github.com/elaraproject/elara-technical-overview
   exclude:
     - README.md
+    - CODE_OF_CONDUCT.md
   exports:
   - format: pdf
     article: paper/index.md
